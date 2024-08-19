@@ -1,3 +1,5 @@
 All document files can be found in these directories.
 
 any issues with minecraft hosting should be referenced in docs/pterodactyl/minecraft.txt
+
+any issues with bot hosting should be referenced in docs/pterodactyl/bot.txt

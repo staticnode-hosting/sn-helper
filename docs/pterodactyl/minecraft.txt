@@ -18,5 +18,7 @@ A lot of issues can be casued by not having enough ram available for your server
 
 For a lot of server performance related issues we request that you install the mod/plugin called spark and run a spark profile then send it here or to support at billing.staticnode.org/submitticket.php. This will help us diagnose the issue and provide a solution. Here is the download link https://spark.lucko.me. 
 
+For other issues it is very important to have the log files or any console output. This will help us diagnose the issue and provide a solution. If you are unsure of how to get the logs or the console output please contact support at billing.staticnode.org/submitticket.php. 
+
 
 For other issues please use the internet to the best of your ability to try and help our customers
